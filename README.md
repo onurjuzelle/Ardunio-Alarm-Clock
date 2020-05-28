@@ -2,6 +2,15 @@
 
 A Digital Alarm Clock built using Arduino and a DS3231 RTC Board
 
+## Hardware Components 
+- Arduino Uno board
+- DS3231 RTC board
+- 20x4 LCD screen
+- 3 x Push Button
+- 2 x Resistor
+- 1 x Led
+
+
 ## How to Simulate 
 
 - Open Proteus 8 and import the project files, or build the circuit manually
