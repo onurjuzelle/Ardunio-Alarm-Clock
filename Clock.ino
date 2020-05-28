@@ -307,4 +307,3 @@ void loop() {
     DS3231_display();
     delay(50);                                  
 }
-// End of code
